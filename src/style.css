@@ -1,0 +1,31 @@
+
+button:active {
+    background-color: #A9A9A9;
+}
+
+.container {
+    display: block;
+    position: absolute;
+    justify-content: center;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+button {
+    display: inline-block;
+    margin: 20px;
+    justify-content: center;
+}
+
+.btn {
+    display: block;
+}
+
+img {
+    margin: 20px;
+    justify-content: center;
+}
+
+.image{
+    display:block;
+}
